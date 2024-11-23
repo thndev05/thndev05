@@ -21,7 +21,7 @@
 ### 🚀 Technologies & Tools
 
 #### Languages:
-![Languages](https://skillicons.dev/icons?i=nodejs,expressjs,js,java,php,nodejs,mysql,html,css)
+![Languages](https://skillicons.dev/icons?i=nodejs,expressjs,js,java,php,mysql,html,css)
 
 #### Tools:
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,webstorm,postman)
