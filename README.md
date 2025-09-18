@@ -1,7 +1,5 @@
 ## 🏆 Welcome to @thndev05's GitHub Profile!
 
-<img src="https://github.com/user-attachments/assets/7d7082b6-ef0c-463f-b08f-cd06281e59ed" alt="Image" width="400" />
-
 ### 👋 Hi there, I’m **Tran Hoang Nhat**
 
 🎓 I'm a student passionate about 🎧 listening to music, 🎮 playing video games, and 💻 learning website programming.
