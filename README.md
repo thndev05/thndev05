@@ -4,9 +4,9 @@
 
 🎓 I'm a student passionate about 🎧 listening to music, 🎮 playing video games, and 💻 learning website programming.
 
-- 🎓 Currently a **2nd-year IT student** 
+- 🎓 Currently a **3rd-year IT student** 
 - 💻 Working on projects in **NodeJS, MongoDB, MySQL, etc.**
-- 🌱 Learning **NodeJS, ExpressJS**
+- 🌱 Learning **NestJS, GraphQL,...**
 - 💬 Ask me about anything **IF I CAN**
 
 ---
