@@ -19,10 +19,10 @@
 ### 🚀 Technologies & Tools
 
 #### Languages:
-![Languages](https://skillicons.dev/icons?i=nodejs,expressjs,js,typescript,nestjs)
+![Languages](https://skillicons.dev/icons?i=cpp,java,html,css,js,typescript,nodejs,expressjs,nestjs,react)
 
 #### Tools:
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,webstorm,postman)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,webstorm,postman,apollo,cloudflare,docker,linux,mongodb)
 
 ---
 
