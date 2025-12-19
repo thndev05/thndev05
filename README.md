@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m **Trần Hoàng Nhật**  
+## I’m **Trần Hoàng Nhật**  
 
 🎓 A passionate **Information Technology student** who loves exploring new technologies and building real-world web applications.  
 I enjoy coding, music 🎧, and games 🎮 — but nothing beats the satisfaction of a successful deploy 💻.  
