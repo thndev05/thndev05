@@ -34,7 +34,7 @@ I enjoy coding, music 🎧, and games 🎮 — but nothing beats the satisfactio
 
 ### 🌍 Connect with Me  
 
-- 📸 **Instagram:** [@thn.ishungry](https://www.instagram.com/thn.ishungry/)  
+- 📸 **Instagram:** [@thn.ishungry](https://www.instagram.com/if.kunsg/)  
 - 💬 **Facebook:** [facebook.com/thn.ishungry](https://www.facebook.com/thn.ishungry/)  
 - ✉️ **Email:** [thndev05@gmail.com](mailto:thndev05@gmail.com)  
 
