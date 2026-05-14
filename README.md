@@ -2,14 +2,11 @@
 
 **Node.js Developer** | **Software Engineer**  
  Danang, Vietnam
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tran%20Hoang%20Nhat-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thndev05/)
+[![Email](https://img.shields.io/badge/Email-thndev05%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thndev05@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-thndev05-181717?style=flat&logo=github)](https://github.com/thndev05)
-[![Email](https://img.shields.io/badge/Email-thndev05@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thndev05@gmail.com)
-
----
-
-##  About Me
-
+###  About Me
 Computer Science student passionate about building Node.js applications. I have experience working with JavaScript, Node.js, and SQL to develop full-stack projects.
 Currently looking for Intern/Fresher Node.js Developer opportunities where I can contribute and grow as a developer.
 
