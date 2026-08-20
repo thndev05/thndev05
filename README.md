@@ -59,9 +59,9 @@ next maintainer can read without a walkthrough.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thndev05/thndev05/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thndev05/thndev05/output/snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/thndev05/thndev05/output/snake-dark.svg" alt="Contribution snake" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%" />
   </picture>
 </p>
 
