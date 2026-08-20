@@ -59,9 +59,9 @@ next maintainer can read without a walkthrough.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thndev05/thndev05/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thndev05/thndev05/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/thndev05/thndev05/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thndev05/thndev05/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thndev05/thndev05/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/thndev05/thndev05/output/snake-dark.svg" alt="Contribution snake" width="100%" />
   </picture>
 </p>
 
