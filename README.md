@@ -66,11 +66,6 @@ next maintainer can read without a walkthrough.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thndev05&theme=github_dark&utcOffset=7" alt="Commits by hour of day" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thndev05&theme=github_dark" alt="Contribution statistics" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thndev05&theme=github_dark" alt="Repositories per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thndev05&theme=github_dark" alt="Most committed language" />
 </p>
