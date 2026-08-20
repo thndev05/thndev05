@@ -58,16 +58,16 @@ next maintainer can read without a walkthrough.
 ## Activity
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thndev05&theme=github_dark" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thndev05&theme=github_dark" alt="Most committed language" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thndev05/thndev05/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thndev05/thndev05/output/snake-light.svg" />
     <img src="https://raw.githubusercontent.com/thndev05/thndev05/output/snake-dark.svg" alt="Contribution snake" width="100%" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thndev05&theme=github_dark" alt="Repositories per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thndev05&theme=github_dark" alt="Most committed language" />
 </p>
 
 ## Contact
