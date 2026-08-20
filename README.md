@@ -70,7 +70,3 @@ next maintainer can read without a walkthrough.
   </picture>
 </p>
 
-## Contact
-
-- **Email** — [thndev05@gmail.com](mailto:thndev05@gmail.com)
-- **LinkedIn** — [linkedin.com/in/thndev05](https://www.linkedin.com/in/thndev05/)
